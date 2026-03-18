@@ -4,7 +4,7 @@
 
 [敌敌畏 C-- 备用仓库链接](https://github.com/SYSTEMwindowsQINGMENG/C-Compiler/releases)
 
-## 现在的Ddv C--编辑器会暂时由SYSTEMwindowsQINGMENG编写代码，由78askari转换成exe文件发出来
+## 现在的Ddv C--编辑器会由SYSTEMwindowsQINGMENG编写代码，会发布源码
 # C++ UI编辑器
 
 轻量化的ui编辑器,使用windows.h库
